@@ -1,0 +1,20 @@
+{
+    "name": "com.sh.statemachine",
+    "version": "1.2.1",
+    "displayName": "State Machine",
+    "description": "This is a state machine with a node editor.",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/Better-Than-Games/State-Machine/blob/main/README.md",
+    "changelogUrl": "https://github.com/Better-Than-Games/State-Machine/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/Better-Than-Games/State-Machine/blob/main/LICENSE.md",
+    "keywords": [
+        "ai",
+        "state machine",
+        "states"
+    ],
+    "author": {
+        "name": "Szymon Hałucha",
+        "email": "szymon.halucha.contact@gmail.com",
+        "url": "https://github.com/SzymonHalucha"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "SH.StateMachine.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2e1fc9d1823cb1847a00acff27046f34"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
